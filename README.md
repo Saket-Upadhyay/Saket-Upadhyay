@@ -16,7 +16,7 @@ Android Java SDK ▪️ Assembly x86_64 / ARM / 8086
 ▪️ Visual Basic .NET.
 
 
-But I am not proficient in all of them, just these - **Assembly, C++, Python and Android java SDK.**
+But I am not proficient in all of them, just these - **Assembly x86_64, C++, Python3 and Android java SDK.**
 
 #### :key: GET MY [GPG PUBLIC KEY HERE](https://saket-upadhyay.github.io/pubkey.html) or [HERE](http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x777F77B28C8AF5E9)
 
