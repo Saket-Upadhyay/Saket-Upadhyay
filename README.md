@@ -5,15 +5,14 @@ Here you will mostly find my **research prototypes** and **side projects**, as I
 
 With the same spirit, usually i work with - 
 
-Android Java SDK ▪️ Assembly x86_64 / ARM / 8086
-▪️ Bash, BAT ▪️ BrainFu\*k
-▪️ C ▪️ C++
-▪️ CSS ▪️ Django
-▪️ HTML ▪️ Java
-▪️ JS ▪️ Perl
-▪️ Python ▪️ Ruby
-▪️ SQL ▪️ VBScript
-▪️ Visual Basic .NET.
+Android Java SDK **|** Assembly x86_64 / ARM / 8086 **|** Bash **|** BAT **|** BrainFu\*k
+**|** C **|** C++
+**|** CSS **|** Django
+**|** HTML **|** Java
+**|** JS **|** Perl
+**|** Python **|** Ruby
+**|** SQL **|** VBScript
+**|** Visual Basic .NET.
 
 
 But I am not proficient in all of them, just these - **Assembly x86_64, C++, Python3 and Android java SDK.**
