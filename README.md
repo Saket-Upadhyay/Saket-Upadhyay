@@ -3,9 +3,26 @@
 Here you will mostly find my **research prototypes** and **side projects**, as I am not a full-fledged software developer, I do what most _hackers_ do - 
 >combine stuff from everywhere to make one thing that works for me.
 
-With the same spirit, usually i work with - Android Java SDK, Assembly x86_64 / ARM / 8086, Bash, BAT, BrainFu\*k, C, C++, CSS, Django, HTML, Java, JS, Perl, Python, Ruby, SQL, VBScript, Visual Basic .NET.
+With the same spirit, usually i work with - 
+▪️ Android Java SDK
+▪️ Assembly x86_64 / ARM / 8086
+▪️ Bash, BAT
+▪️ BrainFu\*k
+▪️ C
+▪️ C++
+▪️ CSS
+▪️ Django
+▪️ HTML
+▪️ Java
+▪️ JS
+▪️ Perl
+▪️ Python
+▪️ Ruby
+▪️ SQL
+▪️ VBScript
+▪️ Visual Basic .NET.
 
-But I am not proficient in all that, just these - Assembly, C++, Python and Android java SDK.
+But I am not proficient in all that, just these - **Assembly, C++, Python and Android java SDK.**
 
 #### :key: GET MY [GPG PUBLIC KEY HERE](https://saket-upadhyay.github.io/pubkey.html) or [HERE](http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x777F77B28C8AF5E9)
 
