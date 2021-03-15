@@ -1,4 +1,4 @@
-### Hey! How ya doing?
+![](https://pbs.twimg.com/profile_banners/711459731982815234/1615019490/1080x360)
 
 Here you will mostly find my **research prototypes** and **side projects**, as I am not a full-fledged software developer, I do what most _hackers_ do - 
 >combine stuff from everywhere to make one thing that works for me.
