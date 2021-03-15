@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/711459731982815234/1615019490/1080x360)
+![](https://github.com/Saket-Upadhyay/Saket-Upadhyay/blob/master/sakpenback2.jpg)
 
 Here you will mostly find my **research prototypes** and **side projects**.
 
