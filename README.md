@@ -1,29 +1,23 @@
 ![](https://pbs.twimg.com/profile_banners/711459731982815234/1615019490/1080x360)
 
-Here you will mostly find my **research prototypes** and **side projects**, as I am not a full-fledged software developer, I do what most _hackers_ do - 
->combine stuff from everywhere to make one thing that works for me.
+Here you will mostly find my **research prototypes** and **side projects**.
 
-With the same spirit, usually i work with - 
-
-Android Java SDK **|** Assembly x86_64 / ARM / 8086 **|** Bash **|** BAT **|** BrainFu\*k
-**|** C **|** C++
-**|** CSS **|** Django
-**|** HTML **|** Java
-**|** JS **|** Perl
-**|** Python **|** Ruby
-**|** SQL **|** VBScript
-**|** Visual Basic .NET.
+Research Interests -
+* Adaptive Cyber Defense Systems
+* Nature/Bio-Inspired Cybersecurity
+* Malware Analysis (x86_64 - Windows and Linux based platforms)
+* Android-based system security (Application and System)
+* Secure Coding / Programming
 
 
-But I am not proficient in all of them, just these - **Assembly x86_64, C++, Python3 and Android java SDK.**
+Usually, I work with **Assembly x86_64, C++, Python3** and **Android java SDK**. But can work with anything that relates to OOP or uses the familiar structure. (eg. Java, Ruby, C, Bash, Perl  etc.)
+
+📧 If any of the above domain(s) interest you, feel free to [Contact Me](https://saket-upadhyay.github.io/about.html)
+
+---
 
 #### :key: GET MY [GPG PUBLIC KEY HERE](https://saket-upadhyay.github.io/pubkey.html) or [HERE](http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x777F77B28C8AF5E9)
 
-
-
-I primarily sign my commits and important documents with this key pair, and you can verify with the same.
+I primarily sign my commits and essential documents with this key pair, and you can verify with the same.
 
 #### :speech_balloon: You can also connect with me on [KeyBase.io](https://keybase.io/saketupadhyay)
-
-![...](https://github-readme-stats.vercel.app/api/top-langs/?username=saket-upadhyay&langs_count=2&layout=compact&exclude_repo=saket-upadhyay.github.io)
-
