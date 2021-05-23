@@ -10,7 +10,7 @@ Research Interests -
 * Secure Coding / Programming
 
 
-Usually, I work with **Assembly x86_64, C++, Python3** and **Android java SDK**. But can work with anything that relates to OOP or uses the familiar structure. (eg. Java, Ruby, C, Bash, Perl  etc.)
+Usually, I work with **Assembly x86_64, C++, Python3** and **Android java SDK**. But can work with anything that relates to OOP or uses the similar structure. (eg. Java, Ruby, C, Bash, Perl  etc.)
 
 📧 If any of the above domain(s) interests you, feel free to [Contact Me](https://saket-upadhyay.github.io/about.html)
 
