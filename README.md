@@ -22,4 +22,3 @@ I primarily sign my commits and essential documents with this key pair, and you 
 
 #### :speech_balloon: You can also connect with me on [KeyBase.io](https://keybase.io/saketupadhyay)
 
-If you want, you can also support me via BitCoin, my wallet is : **bc1qpu8duc34gqmw8rz9chzjgjvz52vy0yzckuus9ypnzas4574q08yse46a5k** 
