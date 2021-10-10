@@ -1,4 +1,4 @@
-![](https://github.com/Saket-Upadhyay/Saket-Upadhyay/blob/master/sakpenback2.jpg)
+<!-- ![](https://github.com/Saket-Upadhyay/Saket-Upadhyay/blob/master/sakpenback2.jpg) -->
 
 Here you will mostly find my **research prototypes** and **side projects**.
 
