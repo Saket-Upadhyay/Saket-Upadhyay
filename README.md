@@ -16,9 +16,10 @@ Usually, I work with **C++, Python3, Assembly x86_64** and **Android java SDK**.
 
 ---
 
-#### :key: GET MY [GPG PUBLIC KEY HERE](https://saket-upadhyay.github.io/pubkey.html) or [HERE](http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x777F77B28C8AF5E9)
+#### :key: GET MY [GPG PUBLIC KEY HERE](https://saket-upadhyay.github.io/pubkey.html) or [HERE](https://raw.githubusercontent.com/Saket-Upadhyay/Saket-Upadhyay.github.io/master/assets/pubkey/Saket%20Upadhyay_0x59BA0808_public.asc)
 
-I primarily sign my commits and essential documents with this key pair, and you can verify with the same.
+I usually sign my commits and essential documents with this key pair, and you can verify them with the same.
+You can also use the same key if you want to communicate with me.
 
-#### :speech_balloon: You can also connect with me on [KeyBase.io](https://keybase.io/saketupadhyay)
+#### :speech_balloon: You can also connect with me on [KeyBase.io](https://keybase.io/saketupadhyay) or [Twitter](https://twitter.com/x64mayhem)
 
