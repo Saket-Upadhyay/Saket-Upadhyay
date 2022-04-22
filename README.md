@@ -2,7 +2,7 @@
 
 Hi,
 
-I am Saket Upadhyay, an incoming Computer Science Ph.D. student at University of Virginia (Fall 2022).
+I am Saket Upadhyay, an Computer Science Ph.D. student at University of Virginia (Fall 2027).
 
 My research interests are-
 * Hardware Security
