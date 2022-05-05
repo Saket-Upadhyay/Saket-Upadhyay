@@ -25,5 +25,5 @@ You can also use the same key to establish secure communication channel with me.
 2. [Twitter](https://twitter.com/saketofcyber)
 3. [Facebook](http://facebook.com/saketofcyber)
 4. [Website](https://saket-upadhyay.github.io)
-5. [Youtube](https://www.youtube.com/channel/UCMFOriBTi3cGTsPFWoiwRMQ)
+5. [Youtube](https://www.youtube.com/channel/UCgykhO3yNMWTo5_bx-I1A8A)
 
