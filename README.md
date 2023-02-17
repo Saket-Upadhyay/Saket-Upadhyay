@@ -2,7 +2,7 @@
 
 Hi,
 
-I am Saket Upadhyay, Computer Science Ph.D. student @ University of Virginia (Fall 2027).
+I am Saket Upadhyay, Computer Science Ph.D. student @ University of Virginia.
 
 My research interests are-
 * Hardware Security
@@ -11,8 +11,6 @@ My research interests are-
 * Threat Intelligence and Analysis
 * Network Security and Resiliency.
 
-#### Curriculum Vitae
-You can download my CV from my website [here](https://saket-upadhyay.github.io/index.html?show=about) or get a [direct PDF from here](https://github.com/Saket-Upadhyay/Saket-Upadhyay.github.io/blob/master/assets/CV/Saket_Upadhyay_Academic_CV_20211112.pdf?raw=true)
 
 #### GPG Public Key
 Get my Public key [here](https://saket-upadhyay.github.io/pubkey.html) or [get raw file here](https://raw.githubusercontent.com/Saket-Upadhyay/Saket-Upadhyay.github.io/master/assets/pubkey/Saket%20Upadhyay_0x59BA0808_public.asc)
