@@ -6,10 +6,8 @@ I am Saket Upadhyay, Computer Science Ph.D. student @ University of Virginia.
 
 My research interests are-
 * Hardware Security
-* Malware Analysis
-* Reverse Engineering
+* Malware Analysis and Reverse Engineering
 * Threat Intelligence and Analysis
-* Network Security and Resiliency.
 
 
 #### GPG Public Key
