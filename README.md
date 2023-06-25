@@ -2,7 +2,7 @@
 
 Hi,
 
-I am Saket Upadhyay, Computer Science Ph.D. student @ University of Virginia.
+I am Saket, a Computer Science Ph.D. student @ the University of Virginia.
 
 My research interests are-
 * Hardware Security
@@ -14,12 +14,9 @@ My research interests are-
 Get my Public key [here](https://saket-upadhyay.github.io/pubkey.html) or [get raw file here](https://raw.githubusercontent.com/Saket-Upadhyay/Saket-Upadhyay.github.io/master/assets/pubkey/Saket%20Upadhyay_0x59BA0808_public.asc)
 
 I usually sign my commits and essential documents with this key pair, and you can verify them with the same.
-You can also use the same key to establish secure communication channel with me.
+You can use the same public key to establish a secure communication channel with me.
 
 #### Socials
-1. [LinkedIn](https://www.linkedin.com/in/saketupadhyay/)
-2. [Twitter](https://twitter.com/saketofcyber)
-3. [Facebook](http://facebook.com/saketofcyber)
-4. [Website](https://saket-upadhyay.github.io)
-5. [Youtube](https://www.youtube.com/channel/UCgykhO3yNMWTo5_bx-I1A8A)
+[LinkedIn](https://www.linkedin.com/in/saketupadhyay/) | [Website](https://saket-upadhyay.github.io) | [Twitter](https://twitter.com/saketofcyber) | [Facebook](http://facebook.com/saketofcyber)
 
+> The best way to reach me is through email, at research[AT]saketupadhyay[DOT]com for academic work, and saket[AT]saketupadhyay[DOT]com for everything else.
