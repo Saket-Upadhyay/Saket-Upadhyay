@@ -25,3 +25,5 @@ You can use the same public key to establish a secure communication channel with
 [LinkedIn](https://www.linkedin.com/in/saketupadhyay/) | [Website](https://saket-upadhyay.github.io) | [Twitter](https://twitter.com/saketofcyber) | [Facebook](http://facebook.com/saketofcyber)
 
 > The best way to reach me is through email, at research[AT]saketupadhyay[DOT]com for academic work, and saket[AT]saketupadhyay[DOT]com for everything else.
+
+Most Used Languages: C++, Assembly, Python3, LLVM.
