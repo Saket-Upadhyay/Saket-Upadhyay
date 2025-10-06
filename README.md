@@ -12,15 +12,12 @@ University of Virginia
 
 
 ## GPG Public Key
+[Web](https://saket-upadhyay.github.io/pubkey.html) | [Raw File](https://raw.githubusercontent.com/Saket-Upadhyay/Saket-Upadhyay.github.io/master/assets/pubkey/Saket%20Upadhyay_0x59BA0808_public.asc)
 
-- [Get my Public Key](https://saket-upadhyay.github.io/pubkey.html)
-- [Direct Raw File](https://raw.githubusercontent.com/Saket-Upadhyay/Saket-Upadhyay.github.io/master/assets/pubkey/Saket%20Upadhyay_0x59BA0808_public.asc)
-- Import via Keybase:
+Import via Keybase:
 ```shell
 curl https://keybase.io/saketupadhyay/pgp_keys.asc | gpg --import
 ```
-
-I typically utilize this key pair to sign my commits and significant documents, and you can verify their authenticity by employing the same key. Additionally, you can securely communicate with me using the same public key.
 
 ## Contact
 
