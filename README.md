@@ -1,30 +1,47 @@
- ![](https://github.com/Saket-Upadhyay/Saket-Upadhyay/blob/master/sakpenback2.jpg)
+![Saket Banner](https://github.com/Saket-Upadhyay/Saket-Upadhyay/blob/master/sakpenback2.jpg)
 
-Hi,
+# Saket Upadhyay
 
-I am Saket; Computer Science Ph.D. student @ the University of Virginia.
+Ph.D. Student, Computer Science  
+University of Virginia
 
-My research interests are-
-* Low-level software security
-* Compilers (especially Code instrumentation / Code gen) x86/ARM
-* Threat Intelligence and Analysis
+## Research Interests
+- Low-level software security
+- Compilers: Code instrumentation and code generation (x86/ARM, LLVM)
+- Threat intelligence and analysis
 
 
-#### GPG Public Key
-Get my Public key [here](https://saket-upadhyay.github.io/pubkey.html) or [get raw file here](https://raw.githubusercontent.com/Saket-Upadhyay/Saket-Upadhyay.github.io/master/assets/pubkey/Saket%20Upadhyay_0x59BA0808_public.asc)
+## GPG Public Key
 
-You can also import my public key from [Keybase.io](https://keybase.io/saketupadhyay) - 
+- [Get my Public Key](https://saket-upadhyay.github.io/pubkey.html)
+- [Direct Raw File](https://raw.githubusercontent.com/Saket-Upadhyay/Saket-Upadhyay.github.io/master/assets/pubkey/Saket%20Upadhyay_0x59BA0808_public.asc)
+- Import via Keybase:
 ```shell
 curl https://keybase.io/saketupadhyay/pgp_keys.asc | gpg --import
 ```
 
-I typically utilize this key pair to sign my commits and significant documents, and you can verify their authenticity by employing the same key.
+I typically utilize this key pair to sign my commits and significant documents, and you can verify their authenticity by employing the same key. Additionally, you can securely communicate with me using the same public key.
 
-Additionally, you can securely communicate with me using the same public key.
+## Contact
 
-#### Socials
-[LinkedIn](https://www.linkedin.com/in/saketupadhyay/) | [Website](https://saket-upadhyay.github.io) | [X](https://x.com/saketofcyber) | [Facebook](http://facebook.com/saketofcyber)
+[Website](https://saketupadhyay.com) | [LinkedIn](https://www.linkedin.com/in/saketupadhyay/)
 
-> The best way to reach me is through email, at research[AT]saketupadhyay[DOT]com for academic work, and saket[AT]saketupadhyay[DOT]com for everything else.
+The best way to reach me is through email:  
+```python3
+ACADEMIC_DOMAIN = "virginia.edu"
+PERSONAL_DOMAIN = "saketupadhyay.com"
+NAME = "saket"
 
-Most Used Languages: C++, Assembly, Python3, LLVM.
+academic_email = f"{NAME}@{ACADEMIC_DOMAIN}"
+regular_email = f"{NAME}@{PERSONAL_DOMAIN}"
+
+print(f"Academic/Research/Work: {academic_email}")
+print(f"Regular: {regular_email}")
+```
+
+```shell
+echo "QUNBREVNSUNfRE9NQUlOID0gInZpcmdpbmlhLmVkdSIKUEVSU09OQUxfRE9NQUlOID0gInNha2V0dXBhZGh5YXkuY29tIgpOQU1FID0gInNha2V0IgphY2FkZW1pY19lbWFpbCA9IGYie05BTUV9QHtBQ0FERU1JQ19ET01BSU59IgpyZWd1bGFyX2VtYWlsID0gZiJ7TkFNRX1Ae1BFUlNPTkFMX0RPTUFJTn0iCgpwcmludChmIkFjYWRlbWljL1Jlc2VhcmNoL1dvcms6IHthY2FkZW1pY19lbWFpbH0iKQpwcmludChmIlJlZ3VsYXI6IHtyZWd1bGFyX2VtYWlsfSIpCg==" | base64 -d | python3 -
+```
+
+### Language
+C, C++, LLVM, Python
